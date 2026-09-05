@@ -42,7 +42,6 @@ export const NAV_LINKS = [
   { label: "International Services", href: "/international-services" },
   { label: "Marketing", href: "/marketing" },
   { label: "Resources", href: "/resources" },
-  { label: "Contact", href: "/contact" },
 ];
 
 // Secondary links — still real pages, surfaced via the footer's "Company" column.
