@@ -35,7 +35,7 @@ export const Route = createFileRoute("/contact")({
 const WEB3FORMS_ENDPOINT = "https://api.web3forms.com/submit";
 const ENQUIRY_OPTIONS = [
   "Indian GST / Tax / Compliance",
-  "International Outsourced Bookkeeping",
+  "International Outsourced Bookkeeping", "Marketing",
   "Something else",
 ];
 
